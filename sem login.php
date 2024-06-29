@@ -14,7 +14,7 @@ require_once("CONTROLLER/veiculoController.php");
 
 <head>
     <meta charset="UTF-8">
-    <link href="ASSETS/img/logo png.png" rel="icon">
+    <link href="ASSETS/img/haha.png" rel="icon">
     <meta name="description" content="HVAC Template">
     <meta name="keywords" content="HVAC, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -329,7 +329,7 @@ require_once("CONTROLLER/veiculoController.php");
                 <div class="col-lg-5" align="center">
                     <div class="hero__text">
                         <div class="hero__text__title"  style="margin-top: -100px !important;">
-                            <img src="ASSETS/img/logo png.png" width="350px" height="350px">
+                            <img src="ASSETS/img/haha.png" width="350px" height="350px">
                         </div>
                     </div>
                 </div>
